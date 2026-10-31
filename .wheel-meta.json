@@ -1,0 +1,22 @@
+{
+  "wheel_id": 569,
+  "structure": "ring",
+  "slug": "ext-t1-20260809-153",
+  "project": "truck-finance-options-australia-documents-needed-d26d066e45818b",
+  "parent_t1_ref": "ext-t1-20260809-002",
+  "node_role": "buffer",
+  "money_target": "loanphone.com.au",
+  "primary_kw": "truck finance options Australia documents needed",
+  "intended_url": "https://aumedia.neocities.org/truck-finance-options-australia-documents-needed-d26d066e45818b/",
+  "tier": "T2",
+  "writeback_nonce": "801f8c4b39cd2988",
+  "links": [
+    {
+      "target_url": "https://truck-finance-options-australia.sitesaugpt.chatgpt.site/",
+      "anchor": "Truck Finance Options Australia",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
